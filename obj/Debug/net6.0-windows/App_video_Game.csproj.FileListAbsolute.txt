@@ -1,0 +1,111 @@
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\obj\Debug\net6.0-windows\App_video_Game.csproj.AssemblyReference.cache
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\obj\Debug\net6.0-windows\App.g.cs
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\obj\Debug\net6.0-windows\App_video_Game_MarkupCompile.cache
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\obj\Debug\net6.0-windows\App_video_Game_MarkupCompile.lref
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\bin\Debug\net6.0-windows\App_video_Game.exe
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\bin\Debug\net6.0-windows\App_video_Game.deps.json
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\bin\Debug\net6.0-windows\App_video_Game.runtimeconfig.json
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\bin\Debug\net6.0-windows\App_video_Game.dll
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\bin\Debug\net6.0-windows\App_video_Game.pdb
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\obj\Debug\net6.0-windows\MainWindow.baml
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\obj\Debug\net6.0-windows\App_video_Game.g.resources
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\obj\Debug\net6.0-windows\App_video_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\obj\Debug\net6.0-windows\App_video_Game.AssemblyInfoInputs.cache
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\obj\Debug\net6.0-windows\App_video_Game.AssemblyInfo.cs
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\obj\Debug\net6.0-windows\App_video_Game.csproj.CoreCompileInputs.cache
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\obj\Debug\net6.0-windows\App_video_Game.csproj.CopyComplete
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\obj\Debug\net6.0-windows\App_video_Game.dll
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\obj\Debug\net6.0-windows\refint\App_video_Game.dll
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\obj\Debug\net6.0-windows\App_video_Game.pdb
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\obj\Debug\net6.0-windows\App_video_Game.genruntimeconfig.cache
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\obj\Debug\net6.0-windows\ref\App_video_Game.dll
+C:\VideoGame_vanel_jeris\App_video_Game\App_video_Game\bin\Debug\net6.0-windows\App_video_Game.dll.config
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\bin\Debug\net6.0-windows\App_video_Game.exe
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\bin\Debug\net6.0-windows\App_video_Game.dll.config
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\bin\Debug\net6.0-windows\App_video_Game.deps.json
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\bin\Debug\net6.0-windows\App_video_Game.runtimeconfig.json
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\bin\Debug\net6.0-windows\App_video_Game.dll
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\bin\Debug\net6.0-windows\App_video_Game.pdb
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\obj\Debug\net6.0-windows\App_video_Game.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\obj\Debug\net6.0-windows\App_video_Game_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\obj\Debug\net6.0-windows\App_video_Game_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\obj\Debug\net6.0-windows\App_video_Game.g.resources
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\obj\Debug\net6.0-windows\App_video_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\obj\Debug\net6.0-windows\App_video_Game.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\obj\Debug\net6.0-windows\App_video_Game.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\obj\Debug\net6.0-windows\App_video_Game.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\obj\Debug\net6.0-windows\App_video_Game.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\obj\Debug\net6.0-windows\App_video_Game.dll
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\obj\Debug\net6.0-windows\refint\App_video_Game.dll
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\obj\Debug\net6.0-windows\App_video_Game.pdb
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\obj\Debug\net6.0-windows\App_video_Game.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\obj\Debug\net6.0-windows\ref\App_video_Game.dll
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\obj\Debug\net6.0-windows\NewPlayer.g.cs
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\obj\Debug\net6.0-windows\NewPlayer.baml
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\obj\Debug\net6.0-windows\SessionAdmin.g.cs
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\obj\Debug\net6.0-windows\SessionAdmin.baml
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\obj\Debug\net6.0-windows\SessionPlayer.g.cs
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\obj\Debug\net6.0-windows\SessionPlayer.baml
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\obj\Debug\net6.0-windows\NewVideoGame.g.cs
+C:\Users\ADMIN\Desktop\c#\Copy_App_video_Game\obj\Debug\net6.0-windows\NewVideoGame.baml
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\bin\Debug\net6.0-windows\App_video_Game.exe
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\bin\Debug\net6.0-windows\App_video_Game.dll.config
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\bin\Debug\net6.0-windows\App_video_Game.deps.json
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\bin\Debug\net6.0-windows\App_video_Game.runtimeconfig.json
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\bin\Debug\net6.0-windows\App_video_Game.dll
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\bin\Debug\net6.0-windows\App_video_Game.pdb
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\obj\Debug\net6.0-windows\App_video_Game.csproj.AssemblyReference.cache
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\obj\Debug\net6.0-windows\NewPlayer.g.cs
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\obj\Debug\net6.0-windows\NewVideoGame.g.cs
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\obj\Debug\net6.0-windows\SessionAdmin.g.cs
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\obj\Debug\net6.0-windows\SessionPlayer.g.cs
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\obj\Debug\net6.0-windows\App_video_Game_MarkupCompile.cache
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\obj\Debug\net6.0-windows\App_video_Game_MarkupCompile.lref
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\obj\Debug\net6.0-windows\NewPlayer.baml
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\obj\Debug\net6.0-windows\NewVideoGame.baml
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\obj\Debug\net6.0-windows\SessionAdmin.baml
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\obj\Debug\net6.0-windows\SessionPlayer.baml
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\obj\Debug\net6.0-windows\App_video_Game.g.resources
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\obj\Debug\net6.0-windows\App_video_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\obj\Debug\net6.0-windows\App_video_Game.AssemblyInfoInputs.cache
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\obj\Debug\net6.0-windows\App_video_Game.AssemblyInfo.cs
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\obj\Debug\net6.0-windows\App_video_Game.csproj.CoreCompileInputs.cache
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\obj\Debug\net6.0-windows\App_video_Game.csproj.CopyComplete
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\obj\Debug\net6.0-windows\App_video_Game.dll
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\obj\Debug\net6.0-windows\refint\App_video_Game.dll
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\obj\Debug\net6.0-windows\App_video_Game.pdb
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\obj\Debug\net6.0-windows\App_video_Game.genruntimeconfig.cache
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\Copy_App_video_Game\Copy_App_video_Game\obj\Debug\net6.0-windows\ref\App_video_Game.dll
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\App_video_game\obj\Debug\net6.0-windows\App_video_Game.csproj.AssemblyReference.cache
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\App_video_game\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\App_video_game\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\App_video_game\obj\Debug\net6.0-windows\App_video_Game_MarkupCompile.cache
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\App_video_game\obj\Debug\net6.0-windows\App_video_Game_MarkupCompile.lref
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\App_video_game\obj\Debug\net6.0-windows\App_video_Game.dll
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\App_video_game\obj\Debug\net6.0-windows\refint\App_video_Game.dll
+C:\Users\vanel guepi\OneDrive\Bureau\cours 2022_2023\prograAvan\projet seconde sesssion\App_video_game\obj\Debug\net6.0-windows\App_video_Game.pdb
